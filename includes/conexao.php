@@ -11,6 +11,6 @@ $conexao = mysql_connect("localhost", "root", "");
 mysql_set_charset('utf8' , $conexao);
 
 //Seleciona o banco de dados que será utilizado
-mysql_select_db("comentarios2");
+mysql_select_db("comentarios");
 
 ?>

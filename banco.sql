@@ -1,5 +1,5 @@
-CREATE DATABASE  IF NOT EXISTS `comentarios2`;
-USE `comentarios2`;
+CREATE DATABASE  IF NOT EXISTS `comentarios`;
+USE `comentarios`;
 
 --
 -- Table structure for table `usuario`
